@@ -1,0 +1,10 @@
+.form-control {
+  align-items: center;
+  width: 20%;
+  position: relative;
+  margin: 0 auto;
+}
+
+.full-form {
+  margin-top: 150px;
+}
