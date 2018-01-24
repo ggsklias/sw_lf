@@ -1,0 +1,16 @@
+.form-control {
+  align-items: center;
+  width: 25%;
+  position: relative;
+  margin: 0 auto;
+}
+
+.full-form {
+  margin-top: 200px;
+}
+
+.form {
+  margin-top: 230px;
+  /* display: inline-block; */
+  text-align: center;
+}
